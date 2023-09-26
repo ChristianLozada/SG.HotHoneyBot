@@ -1,0 +1,2 @@
+# SG.HotHoneyBot
+Discord Bot
